@@ -1,0 +1,9 @@
+spring:
+    application:
+      name: FernandoAPP
+    profiles:
+        active: default
+
+application:
+    nomeold: Jorge
+    nome: Fernando H S Gomes

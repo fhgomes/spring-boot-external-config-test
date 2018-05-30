@@ -1,0 +1,6 @@
+spring:
+    profiles:
+        active: other
+
+application:
+    nome: NOME QUALQUER

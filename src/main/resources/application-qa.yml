@@ -1,0 +1,6 @@
+spring:
+    profiles:
+        active: qa
+
+application:
+    nome: FERNANDO HENRIQUE DOS SANTOS GOMES - QA
